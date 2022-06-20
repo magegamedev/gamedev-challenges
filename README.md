@@ -9,7 +9,7 @@ O objetivo desse repositório, é praticar seu conhecimento de gamedev criando p
 Aqui estão os desafios ⬇️ Divirta-se!
 | Game | Desafio | Nível |
 |--|--|--|
-| 🏓 Pong | [Descrição →]() | Fácil |
+| 🏓 Pong | [Descrição →](https://github.com/magegamedev/gamedev-challenges/blob/main/desafios/pong.md) | Fácil |
 | 👾 Space Invaders | [Descrição →]() | Fácil |
 | 🐍 Snake | [Descrição →]() | Fácil |
 | 🧠 Jogo da Memória | [Descrição →]() | Fácil |
