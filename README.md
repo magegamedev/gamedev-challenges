@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/magegamedev/gamedev-challenges/main/controller.png" alt="Game Dev Challenges" width="200"></p>
+
 # Game Dev Challenges
   
 > 🎮 Uma lista pública de desafios de desenvolvimento de games.
