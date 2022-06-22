@@ -10,17 +10,18 @@ Aqui estão os desafios ⬇️ Divirta-se!
 | Game | Desafio | Nível |
 |--|--|--|
 | 🏓 Pong | [Descrição →](https://github.com/magegamedev/gamedev-challenges/blob/main/desafios/pong.md) | Fácil |
-| 👾 Space Invaders | [Descrição →]() | Fácil |
-| 🐍 Snake | [Descrição →]() | Fácil |
-| 🧠 Jogo da Memória | [Descrição →]() | Fácil |
-| ❌ Jogo da Velha | [Descrição →]() | Fácil |
-| 🟩 Tetris | [Descrição →]() | Fácil |
-| 🔠 Wordle | [Descrição →]() | Fácil |
-| 🐦 Flappy Bird | [Descrição →]() | Fácil |
-| 👟 Infinte Runner| [Descrição →]() | Fácil |
-| 🕹️ Pinball| [Descrição →]() | Fácil |
-| 🏰 Tower Defense | [Descrição →]() | Fácil |
-| 👹 Wave Survivor | [Descrição →]() | Fácil |
-| 🗼 Tower Building | [Descrição →]() | Fácil |
-| 🔫 Top-Down Shooter| [Descrição →]() | Fácil |
-| 🧱 Jenga | [Descrição →]() | Fácil |
+| 🐦 Flappy Bird | [Descrição →](https://github.com/magegamedev/gamedev-challenges/blob/main/desafios/wip.md) | Fácil |
+| 👾 Space Invaders | [Descrição →](https://github.com/magegamedev/gamedev-challenges/blob/main/desafios/wip.md) | Fácil |
+| 🕹️ Pinball| [Descrição →](https://github.com/magegamedev/gamedev-challenges/blob/main/desafios/wip.md) | Fácil |
+| 🐍 Snake | [Descrição →](https://github.com/magegamedev/gamedev-challenges/blob/main/desafios/wip.md) | Fácil |
+| ❌ Jogo da Velha (PVP) | [Descrição →](https://github.com/magegamedev/gamedev-challenges/blob/main/desafios/wip.md) | Fácil |
+| 🧠 Jogo da Memória | [Descrição →](https://github.com/magegamedev/gamedev-challenges/blob/main/desafios/wip.md) | Médio |
+| 🔠 Wordle | [Descrição →](https://github.com/magegamedev/gamedev-challenges/blob/main/desafios/wip.md) | Médio |
+| 🟩 Tetris | [Descrição →](https://github.com/magegamedev/gamedev-challenges/blob/main/desafios/wip.md) | Médio |
+| 👟 Infinte Runner| [Descrição →](https://github.com/magegamedev/gamedev-challenges/blob/main/desafios/wip.md) | Médio |
+| 🔫 Top-Down Shooter| [Descrição →](https://github.com/magegamedev/gamedev-challenges/blob/main/desafios/wip.md) | Difícil |
+| 👹 Wave Survivor | [Descrição →](https://github.com/magegamedev/gamedev-challenges/blob/main/desafios/wip.md) | Difícil |
+| 🗼 Tower Building | [Descrição →](https://github.com/magegamedev/gamedev-challenges/blob/main/desafios/wip.md) | Difícil |
+| 🏰 Tower Defense | [Descrição →](https://github.com/magegamedev/gamedev-challenges/blob/main/desafios/wip.md) | Difícil |
+| ❌ Jogo da Velha (CPU - Algoritmo MiniMax) | [Descrição →](https://github.com/magegamedev/gamedev-challenges/blob/main/desafios/wip.md) | Difícil |
+| 🧱 Jenga | [Descrição →](https://github.com/magegamedev/gamedev-challenges/blob/main/desafios/wip.md) | Difícil |
